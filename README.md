@@ -1,8 +1,8 @@
 ## Hi. I'm Hayeong Ryu 
 ###  Hi👋
-I'm **Hayeong Ryu**.
-I am a developer who is constantly striving to improve. 
-Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model`
+I'm **Hayeong Ryu**.</br>
+I am a developer who is constantly striving to improve. </br>
+Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model`</br></br>
 
 
 
