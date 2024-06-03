@@ -5,7 +5,7 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
 
 
 [<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
-<img alt="bluebarry37@naver.com" src ="https://img.shields.io/badge/Mail.Ru-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
+<img alt="bluebarry37@naver.com" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 
 bluebarry37@naver.com
 </br><!--언어 통계-->
