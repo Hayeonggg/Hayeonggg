@@ -1,6 +1,4 @@
-###  Hi👋
-I'm Ha-yeong Ryu, a developer who is constantly striving to improve. </br></br>
-
+👋 Hi! I'm Ha-yeong Ryu, a developer who is constantly striving to improve. </br></br>
 I'm interested in `NLP`, `Deep Learning`, `LLM`. </br>
 
 
