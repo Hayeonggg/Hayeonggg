@@ -20,13 +20,8 @@ I hope my efforts bear fruit!</br></br>
 
 
 </br><!--언어 통계-->
-<!--
+### 🎼 Used Languages..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeonggg)
--->
-
-</br>
-<!--사용한 언어 보기-->
-<img alt="(넣고자 하는것의 이름)" src ="https://img.shields.io/badge/(넣고자 하는것의 이름)-(색상).svg?&style=flat-square&logo=(넣고자 하는것의 이름)&logoColor=white"/>
 
 </br></br></br>
 
