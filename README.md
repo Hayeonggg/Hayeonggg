@@ -1,8 +1,13 @@
-## Hi. I'm Hayeong Ryu 👋
+## Hi. I'm Hayeong Ryu 
 </br>
+<div align="center">
+ Hi👋
+ I am a developer who is constantly striving to improve. 
+ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model`
 
-⭐ `Natural Language Processing`, `Deep Learning`, `Large Language Model`
 
+
+</div>
 <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
 
 
