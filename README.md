@@ -10,7 +10,6 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bluebarry3)](https://velog.io/@bluebarry3/%EC%A1%B8%EC%9E%91-%EC%A3%BC%EC%A0%9C%EB%B0%9C%ED%91%9C)
 
 </br><!--언어 통계-->
 <!--
