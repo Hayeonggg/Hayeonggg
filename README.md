@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
 ###  Hi👋
 I'm **Hayeong Ryu**.</br>
 I am a developer who is constantly striving to improve. </br></br>
@@ -10,6 +8,9 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bluebarry3)](https://velog.io/@bluebarry3/posts)
 
 </br><!--언어 통계-->
 <!--
@@ -30,7 +31,7 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>         
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 <!--깃허브 배지
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeonggg&show_icons=true&theme=radical)-->
