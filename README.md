@@ -5,7 +5,7 @@
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 
-</br></br>
+
       
 ### Hi! 👋 
 I'm **Ha-yeong Ryu**, </br>
