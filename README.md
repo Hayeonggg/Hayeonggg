@@ -1,12 +1,17 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Seize_the_day😎)-->
 <div align="center">
+ [<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
+<img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
+[<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
+
+</br></br>
       
-Hi! 👋 </br>
+### Hi! 👋 
 I'm **Ha-yeong Ryu**, </br>
 a developer who is constantly striving to improve.😤 </br>
 I'm interested in **`NLP`**, **`Deep Learning`**, **`LLM`**. </br></br></br>
-My motto is **'Make the impossible possible!'**.⭐</br>
-I hope my efforts bear fruit!</br></br>
+My motto is **'Make the impossible possible!'**.</br>
+I hope my efforts bear fruit!🐣</br></br>
 
 </br>
 <!--
