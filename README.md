@@ -2,8 +2,11 @@
 
 Hi! 👋 </br>
 I'm Ha-yeong Ryu, a developer who is constantly striving to improve.😤 </br>
-I'm interested in `NLP`, `Deep Learning`, `LLM`.⭐ </br></br>
+I'm interested in **`NLP`, `Deep Learning`, `LLM`.**⭐ </br></br>
+My motto is 'Make the impossible possible!'.
+I hope my efforts bear fruit!</br></br>
 
+</br></br></br></br>
 
 [<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
