@@ -1,7 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Seize_the_day😎)-->
 <div align="center">
 
-      
 ### Hi! 👋 
 I'm **Ha-yeong Ryu**, </br>
 a developer who is constantly striving to improve.😤 </br>
@@ -13,14 +12,14 @@ I hope my efforts bear fruit!🐣</br></br>
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 
-</br>
+
 <!--
 ### ✈ To visit..
 [<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 -->
-</br>
+
 <!--
 ### 🚩 GitHub Streak
 History :  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>   </br></br>
@@ -29,7 +28,7 @@ History :  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufa
 <!--언어 통계-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeonggg)-->
 
-</br>
+
 <!--
 ### 😶 Skills
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/> <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
