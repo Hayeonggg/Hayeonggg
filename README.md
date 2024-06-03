@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Seize_the_day)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Seize_the_day😎)
 
 Hi! 👋 </br>
 I'm Ha-yeong Ryu, a developer who is constantly striving to improve.😤 </br>
