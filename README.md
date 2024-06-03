@@ -1,5 +1,10 @@
 ## Hi. I'm Hayeong Ryu 👋
+</br>
+keywords : `Natural Language Processing`, `Deep Learning`, `Large Language Model`
 
+
+</br>
+<img alt="(넣고자 하는것의 이름)" src ="https://img.shields.io/badge/(넣고자 하는것의 이름)-(색상).svg?&style=flat-square&logo=(넣고자 하는것의 이름)&logoColor=white"/>
 
 <!--깃허브 배지
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeonggg&show_icons=true&theme=radical)-->
