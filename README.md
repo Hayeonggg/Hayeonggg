@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&fontSize=30&fontAlignY=40&animation=fadeIn&text='Follow your heart')
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Follow_your_heart)
 
 Hi! 👋 </br>
 I'm Ha-yeong Ryu, a developer who is constantly striving to improve.😤 </br>
