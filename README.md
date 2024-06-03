@@ -14,8 +14,9 @@ I hope my efforts bear fruit!</br></br>
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 
-</br></br>
+</br>
 
+### 🚩 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=hayeonggg&theme=neon-dark)](https://git.io/streak-stats)
 
 
@@ -23,7 +24,7 @@ I hope my efforts bear fruit!</br></br>
 ### 🎼 Used Languages..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeonggg)
 
-</br></br></br>
+</br>
 
 ### 😶 Skills
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/> <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
