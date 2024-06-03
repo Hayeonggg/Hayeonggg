@@ -1,5 +1,6 @@
-👋 Hi! I'm Ha-yeong Ryu, a developer who is constantly striving to improve. </br></br>
-I'm interested in `NLP`, `Deep Learning`, `LLM`. </br>
+Hi! 👋 
+I'm Ha-yeong Ryu, a developer who is constantly striving to improve.😤 </br>
+I'm interested in `NLP`, `Deep Learning`, `LLM`.⭐ </br></br>
 
 
 [<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
