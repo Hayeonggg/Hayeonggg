@@ -1,6 +1,7 @@
 ## Hi. I'm Hayeong Ryu 👋
 </br>
-⭐ keywords : `Natural Language Processing`, `Deep Learning`, `Large Language Model`
+
+⭐ `Natural Language Processing`, `Deep Learning`, `Large Language Model`
 
 <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
 
