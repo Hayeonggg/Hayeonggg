@@ -1,5 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Seize_the_day😎)-->
-
+<div align="center">
+      
 Hi! 👋 </br>
 I'm Ha-yeong Ryu, </br>
 a developer who is constantly striving to improve.😤 </br>
@@ -31,9 +32,9 @@ History :  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufa
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/> <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/>
 
 
-</br><!--방문자 통계-->
+<!--방문자 통계-->
 
-      
+</div>      
 
 
 
