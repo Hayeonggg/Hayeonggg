@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 ###  Hi👋
 I'm **Hayeong Ryu**.</br>
@@ -29,6 +29,9 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
 </br><!--방문자 통계-->
 
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>         
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 <!--깃허브 배지
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeonggg&show_icons=true&theme=radical)-->
