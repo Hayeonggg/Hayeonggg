@@ -3,10 +3,10 @@
 ⭐ keywords : `Natural Language Processing`, `Deep Learning`, `Large Language Model`
 
 </br>
-
-</br>
+<!--사용한 언어 보기-->
+<!--<img alt="(넣고자 하는것의 이름)" src ="https://img.shields.io/badge/(넣고자 하는것의 이름)-(색상).svg?&style=flat-square&logo=(넣고자 하는것의 이름)&logoColor=white"/>-->
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
-
+<img alt="tensorflow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white"/>
 
 
 </br><!--사용한 언어 보기-->
