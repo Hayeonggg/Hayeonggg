@@ -6,7 +6,7 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
 
 
 
-<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>
+[<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
 
 
 </br><!--언어 통계-->
