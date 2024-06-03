@@ -2,9 +2,9 @@
 <div align="center">
       
 Hi! 👋 </br>
-I'm Ha-yeong Ryu, </br>
+I'm **Ha-yeong Ryu**, </br>
 a developer who is constantly striving to improve.😤 </br>
-I'm interested in `NLP`, `Deep Learning`, `LLM`.⭐ </br></br></br>
+I'm interested in `**NLP**`, `**Deep Learning**`, `**LLM**`.⭐ </br></br></br>
 My motto is 'Make the impossible possible!'.😎</br>
 I hope my efforts bear fruit!</br></br>
 
