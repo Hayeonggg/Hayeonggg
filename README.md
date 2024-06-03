@@ -7,10 +7,14 @@
 </br>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
-</br>
+
+
+</br><!--사용한 언어 보기-->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeonggg)
 
-</br>
+</br><!--방문자 통계-->
+
 <div align = "center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
 </div>
