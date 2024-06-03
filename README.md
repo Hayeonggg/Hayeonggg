@@ -4,8 +4,9 @@ I am a developer who is constantly striving to improve. </br></br>
 Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model`</br></br>
 
 
-[<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=black"/>](https://velog.io/@bluebarry3/posts)
-<img alt="bluebarry37@naver.com" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
+[<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
+<img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
+[<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 
 bluebarry37@naver.com
 </br><!--언어 통계-->
