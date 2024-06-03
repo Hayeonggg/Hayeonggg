@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 ###  Hi👋
 I'm **Hayeong Ryu**.</br>
 I am a developer who is constantly striving to improve. </br></br>
@@ -8,7 +9,7 @@ Interest : `Natural Language Processing`, `Deep Learning`, `Large Language Model
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
 
-bluebarry37@naver.com
+
 </br><!--언어 통계-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeonggg)
