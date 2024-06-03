@@ -9,6 +9,7 @@ I hope my efforts bear fruit!</br></br>
 
 </br>
 ### To visit..
+
 [<img alt="Blog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@bluebarry3/posts)
 <img alt="email" src ="https://img.shields.io/badge/bluebarry37@naver.com-005FF9.svg?&style=flat-square&logo=Mail.Ru&logoColor=white"/>
 [<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ruhayeoo_o/a)
