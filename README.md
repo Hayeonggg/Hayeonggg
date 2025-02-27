@@ -1,5 +1,5 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Seize_the_day😎)-->
-<div align="center">
+
 
 ### Hi! 👋 
 I'm **Ha-yeong Ryu**, </br>
